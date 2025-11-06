@@ -6,7 +6,7 @@ java 接口内的属性都是public static final
 
 java 接口不能继承其它的类，可以实现多个接口，而java类只能单继承
 
-
+dwadwad
 
 wdadwDwa
 
