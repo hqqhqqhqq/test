@@ -22,7 +22,7 @@ XML和HTML类似，不同的是HTML都是预订标签，而XML中没有预定义
 >
 > ​	</student>
 
-
+dwadw
 
 # AJAX的特点
 
